@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-12T13:01:48.704Z</updated>
+  <updated>2016-05-12T13:09:38.210Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/05/01/%E5%8D%9A%E5%AE%A2%E5%B0%8F%E5%BA%8F/"/>
     <id>http://yoursite.com/2016/05/01/博客小序/</id>
     <published>2016-05-01T12:53:30.000Z</published>
-    <updated>2016-05-12T13:01:48.704Z</updated>
+    <updated>2016-05-12T13:09:38.210Z</updated>
     
     <content type="html">&lt;p&gt;不知不觉间，步入工作岗位已临近1年。在这将近一年的时间里&lt;/p&gt;
 &lt;h3 id=&quot;探索与体验&quot;&gt;&lt;a href=&quot;#探索与体验&quot; class=&quot;headerlink&quot; title=&quot;探索与体验&quot;&gt;&lt;/a&gt;探索与体验&lt;/h3&gt;&lt;h3 id=&quot;跬步与千里&quot;&gt;&lt;a href=&quot;#跬步与千里&quot; class=&quot;headerlink&quot; title=&quot;跬步与千里&quot;&gt;&lt;/a&gt;跬步与千里&lt;/h3&gt;&lt;h3 id=&quot;分享与促进&quot;&gt;&lt;a href=&quot;#分享与促进&quot; class=&quot;headerlink&quot; title=&quot;分享与促进&quot;&gt;&lt;/a&gt;分享与促进&lt;/h3&gt;</content>
@@ -31,6 +31,8 @@
 &lt;h3 id=&quot;探索与体验&quot;&gt;&lt;a href=&quot;#探索与体验&quot; class=&quot;headerlink&quot; title=&quot;探索与体验&quot;&gt;&lt;/a&gt;探索与体验&lt;/h3&gt;&lt;h3 id=&quot;跬步与千里&quot;&gt;&lt;a href=&quot;#
     
     </summary>
+    
+      <category term="ctest" scheme="http://yoursite.com/categories/ctest/"/>
     
     
       <category term="test" scheme="http://yoursite.com/tags/test/"/>
